@@ -22,7 +22,7 @@ public class cyberStudents {
 
         for (String[] eachBatch : CyberStudents) {
             for (String eachStudent : eachBatch) {
-                System.out.print("CydeoStudents:" + eachStudent);
+                System.out.print("CyberStudents:" + eachStudent);
                 System.out.println();
             }
 
